@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Subash R S D 
+# 👋 Hi, I'm Subash
 **`B.Tech CS Final Year Student`**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Subash-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/subash-r-s-d-a524b4314/)
 [![GitHub](https://img.shields.io/badge/GitHub-Subash0603-181717?style=flat&logo=github)](https://github.com/Subhash0603)
